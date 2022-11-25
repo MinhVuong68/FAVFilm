@@ -1,0 +1,35 @@
+.container {
+    width: 100%;
+    margin-bottom: 20px;
+    display: flex;
+}
+
+.poster img {
+    width: 240px;
+    height: 100%;
+    border-radius: 20px;
+}
+
+.content {
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    margin-left: 24px;
+}
+
+.movie-name {
+    font-size: 5rem;
+    font-weight: 500;
+}
+.info {
+    margin-top: 10px;
+}
+
+.title {
+    margin-bottom: 5px;
+}
+
+.list-cast img {
+    width: 100px;
+    margin-right: 8px;
+}

@@ -1,0 +1,29 @@
+.wrapper {
+    min-height: 270px;
+    background-color: #000;
+    padding: 30px 60px;
+    display: flex;
+    align-items: center;
+}
+
+.w-left {
+    flex: 1;
+}
+
+.info {
+    color: #fff;
+    margin-bottom: 10px;
+
+    span {
+        display: inline-block;
+        min-width: 150px;
+    }
+}
+
+.w-center {
+    flex: 1;
+}
+
+.w-right {
+    flex: 1;
+}
