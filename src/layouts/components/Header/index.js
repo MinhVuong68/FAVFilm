@@ -16,7 +16,7 @@ const Header = () => {
                         <img src="../../../assets/logo.png" alt="logo" />
                     </Link>
                 </div>
-                <h4 className={cx('title')}>FavFilm</h4>
+                <h4 className={cx('title')}>FavFilmss</h4>
             </div>
             <div className={cx('center')}>
                 <Search />
